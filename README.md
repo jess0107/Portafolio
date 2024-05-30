@@ -16,6 +16,8 @@ import numpy as np
 import math as mat
 
 4. Modelos:
+Se probaron cinco modelos diferentes de Machine Learning para predecir la rotación de clientes en un banco, incluyendo Árbol de Decisión, Random Forest Classifier, Support Vector Classifier, Clasificador de Perceptrón Multicapa y Clasificador XGBoost.
+Finalmente, utilicé los modelos Random Forest y XGBoost en la aplicación final. Estos modelos demostraron tener un rendimiento superior en las pruebas y fueron los más efectivos para predecir la deserción de clientes.
 
 
 
